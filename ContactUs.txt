@@ -1,0 +1,132 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="stylesheet0.css">
+
+<title>
+The Cat Whom Thought He was an A.I.
+</title>
+
+</head>
+
+<body class="imagecontactus">
+
+<!-- Beginning code For main menu bar -->
+<div class="menu">
+
+<nav>
+
+<ul class="menu1">
+
+<li class="menu2">
+<a href="HTMLFinalProject.html">Home </a>
+</li>
+<li class="menu2">
+<a href="History.html">History </a>
+</li>
+<li class="menu2">
+<a href="Present.html">Present </a>
+</li>
+<li class="menu2">
+<a href="Future.html">Future </a>
+</li>
+<li class="menu2">
+<a href="ContactUs.html">Contact/About Us </a>
+</li>
+
+</ul>
+
+</nav>
+
+</div>
+
+<!-- Beginning code for main content -->
+<div>
+<h1>
+Contact Us/About
+</h1>
+
+<p>
+<img src="reyx4yjix9721.jpg">
+</p>
+
+<p class="outro">
+This is a company based out of the WWF sponsored by Sarah Mcclahlan, we have since expanded to become more affluent in the A.I. technology. We have made strides to also spread this information to help encourage those whom wish to dive into A.I. That is all, thank you!
+<br>
+1-800-555-5555
+<br>
+<a href="mailto:rsolis3415@gmail.com">rsolis3415@gmail.com
+</p>
+</div>
+
+<!-- Beginning code for hyperlinks -->
+<footer>
+<div>
+
+<h2>
+
+Current and Future Projects Links
+
+</h2>
+
+<footer>
+
+<div>
+
+<ul class="Vmenu1">
+
+<li class="Vmenu">
+
+<a href="https://www.analyticsinsight.net/augmented-intelligence-new-artificial-intelligence/"> Augmented Intelligence </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://www.hansonrobotics.com/sophia/"> Sophia </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://mindmajix.com/neural-network-in-artificial-intelligence"> Neural Networks </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://roboticsandautomationnews.com/2020/03/09/how-ai-technologies-accelerate-progress-in-medical-diagnosis/31184/"> Medical Diagnosis </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://news.artnet.com/market/ai-art-business-intelligence-report-2020-1812288"> Market Trends </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://thegadgetflow.com/blog/moflin-ai-pet/"> Pet </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://vrvisiongroup.com/vr-and-ai-two-technologies-set-to-merge/"> Virtual Reality Combines with A.I. </a>
+
+</li>
+
+</ul>
+
+</div>
+</footer>
+
+
+</body>
+
+</html>
+

@@ -1,0 +1,137 @@
+body {
+
+text-align: center;
+
+}
+
+.presentimages {
+display: inline;
+align: left;
+}
+
+.intro { 
+Font-size: 20px;
+color: red;
+Font-Family: Verdana;
+}
+
+.outro {
+background-color: black; 
+Font-size: 20px;
+color: red;
+Font-Family: Verdana
+}
+.imagehome {
+background-image: url(mass-effect-robot-geth-ruin-ai-art.jpg);
+}
+
+.imagefuture {
+background-image: url(shutterstock_147776027.jpg);
+}
+
+.imagepresent {
+background-image: url(artificial_intelligence_ai_human_workforce_balance_disruption_thinkstock_904420272-100749916-large.jpg);
+}
+
+.imagehistory {
+background-image: url(Clearview-AI-Privacy.jpg);
+}
+
+.imagecontactus {
+background-image: url(robotic-hand-working-with-virtual-graphic-interface_8b22fee6-8412-11e8-b9ce-1e6263d714a8.jpg);
+}
+
+.menu {
+
+background-color: black;
+border-color: red;
+border-width: 2px;
+border-style: solid;
+height: 35px;
+font-size: 25px;
+font-weight: bold;
+font-family: Tahoma;
+width: 1500px;
+margin-left: 200px;
+
+} 
+
+.menu1 {
+
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-align: center;
+
+}
+
+.menu2 {
+
+display: inline;
+padding: 15px;
+vertical-align: middle;
+
+}
+
+a {
+
+text-decoration: none;
+color: red;
+padding: 8px;
+vertical-align: middle;
+
+}
+
+a:hover {
+
+color: gray;
+background-color: black;
+
+}
+
+.Vmenu {
+
+text-decoration: none;
+font-family: Helvetica;
+background-color: black;
+color: white;
+display: block;
+width: 260px;
+margin: 5px;
+padding: 10px;
+border: 1px solid red;
+border-radius: 2px;
+text-align: center;
+height: 25px;
+line-height: 25px;
+
+}
+
+.Vmenu1 {
+
+list-style: none;
+padding: 0;
+margin: 0;
+
+}
+
+h1 {
+
+color: red;
+
+}
+
+h2 {
+
+text-align: left;
+color: red;
+
+}
+
+.contactus {
+
+position: absolute;
+top: 1800px;
+left: 715px;
+
+}

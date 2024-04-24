@@ -1,0 +1,257 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta name="description"content="A.I. History, Present, and Future along with current projects and future projects." />
+<meta name="keywords"content="A.I., Virtual Reality, Augmented Reality, Robotics" />
+<meta http-equiv="author"content="Robert Solis" />
+<meta http-equiv="content-language" content="en-us" />
+<link rel="stylesheet" type="text/css" href="stylesheet0.css">
+
+<title> A.I. From The History to the Future! </title>
+
+</head>
+
+<body class="imagehome">
+<!-- Beginning code for Main menu bar -->
+<div class="menu">
+
+<nav>
+
+<ul class="menu1">
+
+<li class="menu2">
+
+<a href="HTMLFinalProject.html">Home </a>
+
+</li>
+
+<li class="menu2">
+<a href="#History">History </a>
+</li>
+
+<li class="menu2">
+<a href="#Present">Present </a>
+</li>
+
+<li class="menu2">
+<a href="#Future">Future </a>
+</li>
+
+<li class="menu2">
+<a href="#Current and Future Projects">Current and Future Projects </a>
+</li>
+
+<li class="menu2">
+<a href="#Contact Us">Contact/About Us </a>
+</li>
+
+</ul>
+
+</nav>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Code for A.I. intro just a general greeting -->
+<div>
+
+<h1>
+
+A.I. Introduction
+
+</h1>
+
+<p class="intro">
+
+Welcome to the website, here you will learn the some background information of the A.I. technology along with some up and coming projects as well as current A.I. systems used today!
+
+</p>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div>
+<!-- Beginning code for A.I. History -->
+<h1>
+
+<a href="History.html"> History </a>
+
+</h1>
+
+<p>
+
+<iframe width="600" height="300" src="https://www.youtube.com/embed/NJ2VpmoGyMw" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+
+</p>
+
+<p class="intro">
+
+<a name="History"> History: This section will be about how A.I. was first thought of and how A.I. came to be. </a>
+
+</p>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div>
+<!-- Beginning code for Present A.I. -->
+<h1>
+
+<a href="Present.html"> Present </a>
+
+</h1>
+
+<p>
+
+<img src="hero-e1575918993551.jpg" width="600" height="300" alt="Fluffy Kitty!!!!!! (this area will loop through pictures of current A.I. in action today)">
+
+</p>
+
+<p class="intro">
+
+<a name="Present">Present: This section details how A.I. is used today, and how A.I. has benefited and made life's task more convenient today.  </a>
+
+</p>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Beginning code for Future A.I. -->
+<div>
+
+<h1> 
+
+<a href="Future.html"> Future </a>
+
+</h1>
+
+<p>           
+
+<iframe width="600" height="300" src="https://www.youtube.com/embed/clFqS2rMG3g" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
+
+<p class="intro">      
+
+<a name="Future"> Future: This section will detail the current projections of the current A.I. technology and showing a glimspe of what could pass in the near future. </a>
+
+</p>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Beginning code for Projects -->
+<div>
+
+<h2>
+
+<a name="Current and Future Projects">Current and Future Projects Links </a>
+
+</h2>
+
+<ul class="Vmenu1">
+
+<li class="Vmenu">
+
+<a href="https://www.analyticsinsight.net/augmented-intelligence-new-artificial-intelligence/"> Augmented Intelligence </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://www.hansonrobotics.com/sophia/"> Sophia </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://mindmajix.com/neural-network-in-artificial-intelligence"> Neural Networks </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://roboticsandautomationnews.com/2020/03/09/how-ai-technologies-accelerate-progress-in-medical-diagnosis/31184/"> Medical Diagnosis </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://news.artnet.com/market/ai-art-business-intelligence-report-2020-1812288"> Market Trends </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://thegadgetflow.com/blog/moflin-ai-pet/"> Pet </a>
+
+</li>
+
+<li class="Vmenu">
+
+<a href="https://vrvisiongroup.com/vr-and-ai-two-technologies-set-to-merge/"> Virtual Reality Combines with A.I. </a>
+
+</li>
+
+</ul>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Beginning code for contact us page -->
+<div class="contactus">
+
+<footer>
+
+<h1>
+
+<a href="ContactUs.html"> Contact/About Us </a>
+
+</h1>
+
+<p>
+
+<img src="reyx4yjix9721.jpg" width="400" height="350" alt="Self-Image">
+
+</p>
+
+<p class="intro">
+
+<a name="Contact Us"> 1-800-555-5555 
+<br>
+<a href="mailto:rsolis3415@gmail.com">rsolis3415@gmail.com
+<br>
+</a>
+
+</p>
+
+</footer>
+
+</div>
+
+</body>
+
+</html>
+
+
